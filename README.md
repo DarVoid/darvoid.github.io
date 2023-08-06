@@ -1,3 +1,3 @@
-# Darvoid
+# DarVoid
 
 ![me](me.png)
